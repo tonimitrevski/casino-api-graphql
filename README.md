@@ -11,7 +11,8 @@ npm install
 ```
 npm run dev
 ```
-#### Deploy in AWS with Serverless framework
+#### Deploy on AWS with Serverless framework 
+https://www.serverless.com/
 ```
 serverless deploy
 ```
